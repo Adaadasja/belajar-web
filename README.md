@@ -1,2 +1,2 @@
 # belajar-membuat-web
-  semua awalah dari hal yang terkecil
+  semua awalan di mulai dari hal yang terkecil
